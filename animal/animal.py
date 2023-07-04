@@ -12,4 +12,8 @@ class Animal:
     def get_name(self):
         return self.name
 
-test = Removul
+test = 1
+test = "Removul"
+
+kak = 6
+kak = "Ahmed"
