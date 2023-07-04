@@ -11,3 +11,5 @@ class Animal:
     
     def get_name(self):
         return self.name
+
+test = Removul
