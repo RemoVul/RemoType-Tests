@@ -1,5 +1,6 @@
 class Animal:
     weight = 50
+    hair = "black"
     def __init__(self, name):
         self.name = name
 
@@ -12,8 +13,5 @@ class Animal:
     def get_name(self):
         return self.name
 
-test = 1
-test = "Removul"
-
-kak = 6
-kak = "Ahmed"
+Animal().weight = "Ahmed"
+Animal().hair = 50
